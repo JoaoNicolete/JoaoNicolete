@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm João Nicoelte</h1>
+<h1 align="center">Hi 👋, I'm João Nicolete</h1>
 <h3 align="center">A passionate frontend developer from Brazil, with a love for creating new solutions for old problems.</h3>
 
 
-- 🌱 I’m currently learning **Angular, javaScript.**
+- 🌱 I’m currently learning **Ruby, React.**
 
 - 📫 How to reach me **joao.nicolete@usp.br**
 
